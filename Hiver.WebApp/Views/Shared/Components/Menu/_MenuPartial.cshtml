@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Hiver.ViewModels.Common.MenuViewModel>
+
+@foreach (var menu in Model)
+{
+    if (menu.Children.Any())
+    {
+    <li class="nav-item">
+        <a href="#" class="nav-link">
+            <i class="nav-icon @menu.IconClass"></i>
+            <p>
+                @menu.MenuName
+                <i class="fas fa-angle-left right"></i>
+                <span class="badge badge-info right">6</span>
+            </p>
+        </a>
+        <ul class="nav nav-treeview">
+            <partial name="Components/Menu/_MenuPartial" model="menu.Children" />
+        </ul>
+    </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            @{
+                if (string.IsNullOrEmpty(menu.Url))   //Add either onclick event or href.
+                {
+                    <a class="nav-link">
+                        <i class="nav-icon far fa-image"></i>
+                        <p>
+                            @menu.MenuName
+                        </p>
+                    </a>
+                }
+                else
+                {
+                    <a href="@menu.Url" class="nav-link">
+                        <i class="nav-icon far fa-image"></i>
+                        <p>
+                            @menu.MenuName
+                        </p>
+                    </a>
+                }
+            }
+        </li>
+    }
+}

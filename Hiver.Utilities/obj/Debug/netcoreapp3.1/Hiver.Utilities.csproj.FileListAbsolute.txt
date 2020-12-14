@@ -1,0 +1,25 @@
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.deps.json
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.dll
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.pdb
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.csprojAssemblyReference.cache
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.AssemblyInfoInputs.cache
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.AssemblyInfo.cs
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.csproj.CoreCompileInputs.cache
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.dll
+D:\Drive Google\Project\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.pdb
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.deps.json
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.pdb
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.AssemblyInfoInputs.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.AssemblyInfo.cs
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.csproj.CoreCompileInputs.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.pdb
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.deps.json
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.dll
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\bin\Debug\netcoreapp3.1\Hiver.Utilities.pdb
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.AssemblyInfoInputs.cache
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.AssemblyInfo.cs
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.csproj.CoreCompileInputs.cache
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.dll
+E:\Project\TNH\Web\ProjectTNHERPV2\Hiver.Utilities\obj\Debug\netcoreapp3.1\Hiver.Utilities.pdb

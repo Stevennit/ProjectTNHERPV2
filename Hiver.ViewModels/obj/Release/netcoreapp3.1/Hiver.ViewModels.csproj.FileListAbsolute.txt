@@ -1,0 +1,9 @@
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\bin\Release\netcoreapp3.1\Hiver.ViewModels.deps.json
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\bin\Release\netcoreapp3.1\Hiver.ViewModels.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\bin\Release\netcoreapp3.1\Hiver.ViewModels.pdb
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\obj\Release\netcoreapp3.1\Hiver.ViewModels.csprojAssemblyReference.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\obj\Release\netcoreapp3.1\Hiver.ViewModels.AssemblyInfoInputs.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\obj\Release\netcoreapp3.1\Hiver.ViewModels.AssemblyInfo.cs
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\obj\Release\netcoreapp3.1\Hiver.ViewModels.csproj.CoreCompileInputs.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\obj\Release\netcoreapp3.1\Hiver.ViewModels.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ViewModels\obj\Release\netcoreapp3.1\Hiver.ViewModels.pdb

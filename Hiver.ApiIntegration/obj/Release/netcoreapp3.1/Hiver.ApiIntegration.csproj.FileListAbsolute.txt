@@ -1,0 +1,14 @@
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\bin\Release\netcoreapp3.1\Hiver.ApiIntegration.deps.json
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\bin\Release\netcoreapp3.1\Hiver.ApiIntegration.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\bin\Release\netcoreapp3.1\Hiver.ApiIntegration.pdb
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\bin\Release\netcoreapp3.1\Hiver.Utilities.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\bin\Release\netcoreapp3.1\Hiver.ViewModels.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\bin\Release\netcoreapp3.1\Hiver.Utilities.pdb
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\bin\Release\netcoreapp3.1\Hiver.ViewModels.pdb
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\obj\Release\netcoreapp3.1\Hiver.ApiIntegration.csprojAssemblyReference.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\obj\Release\netcoreapp3.1\Hiver.ApiIntegration.AssemblyInfoInputs.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\obj\Release\netcoreapp3.1\Hiver.ApiIntegration.AssemblyInfo.cs
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\obj\Release\netcoreapp3.1\Hiver.ApiIntegration.csproj.CoreCompileInputs.cache
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\obj\Release\netcoreapp3.1\Hiver.ApiIntegration.csproj.CopyComplete
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\obj\Release\netcoreapp3.1\Hiver.ApiIntegration.dll
+E:\Project\TNH\Web\ProjectTNHERP\ProjectTNHERP\Hiver.ApiIntegration\obj\Release\netcoreapp3.1\Hiver.ApiIntegration.pdb
